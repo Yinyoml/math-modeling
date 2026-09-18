@@ -33,3 +33,4 @@ k, b = np.polyfit(year, pop, 1)                       # 一次多项式拟合
 pred = k * 2025 + b
 print(f"拟合模型：y = {k:.4f} * year + {b:.4f}")
 print(f"预测 2025 年人口：{pred:.2f} 亿人")
+print("孙美琳加油！！！")
